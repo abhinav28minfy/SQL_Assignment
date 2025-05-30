@@ -1,3 +1,4 @@
+```
 Windows PowerShell
 Copyright (C) Microsoft Corporation. All rights reserved.
 
@@ -911,3 +912,4 @@ university_db=> SELECT * FROM students WHERE student_id = 1;
 
 
 university_db=>
+```
